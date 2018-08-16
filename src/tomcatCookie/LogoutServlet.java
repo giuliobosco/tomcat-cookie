@@ -1,5 +1,5 @@
 
-package com.journaldev.servlet.session;
+package tomcatCookie;
 
 import java.io.IOException;
 
