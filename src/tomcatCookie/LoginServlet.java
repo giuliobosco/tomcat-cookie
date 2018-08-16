@@ -31,13 +31,14 @@ public class LoginServlet extends HttpServlet {
 
         if(userID.equals(user) && password.equals(pwd)){
             HttpSession session = request.getSession();
-            session.setAttribute("user", "Admin");
+            session.setAttribute("user", "Pankaj");
             //setting session to expiry in 30 mins
             session.setMaxInactiveInterval(30*60);
             Cookie userName = new Cookie("user", user);
-            userName.setMaxAge(30*60);
             response.addCookie(userName);
-            response.sendRedirect("LoginSuccess.jsp");
+            //Get the encoded URL string
+            String encodedURL = response.encodeRedirectURL("LoginSuccess.jsp");
+            response.sendRedirect(encodedURL);
         }else{
             RequestDispatcher rd = getServletContext().getRequestDispatcher("/login.html");
             PrintWriter out= response.getWriter();

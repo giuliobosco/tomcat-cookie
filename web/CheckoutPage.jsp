@@ -7,6 +7,8 @@
 --%>
 
 <%@ page language="java" contentType="text/html; charset=US-ASCII"
+
+<%@ page language="java" contentType="text/html; charset=US-ASCII"
          pageEncoding="US-ASCII"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -16,11 +18,11 @@
 </head>
 <body>
 <%
-    //allow access only if session exists
+    String userName = null;
+//allow access only if session exists
     if(session.getAttribute("user") == null){
         response.sendRedirect("login.html");
-    }
-    String userName = null;
+    }else userName = (String) session.getAttribute("user");
     String sessionID = null;
     Cookie[] cookies = request.getCookies();
     if(cookies !=null){
@@ -31,7 +33,7 @@
 %>
 <h3>Hi <%=userName %>, do the checkout.</h3>
 <br>
-<form action="LogoutServlet" method="post">
+<form action="<%=response.encodeURL("LogoutServlet") %>" method="post">
     <input type="submit" value="Logout" >
 </form>
 </body>
