@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27b0a755-dad4-44b8-97da-626bb739de96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/create_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/create_db.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,7 +59,7 @@
     <session id="-271558305">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="1" />
@@ -66,8 +67,8 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,7 +78,7 @@
           <entry key="java" value="18" />
           <entry key="jsp" value="2" />
           <entry key="properties" value="3" />
-          <entry key="sql" value="10" />
+          <entry key="sql" value="15" />
           <entry key="user" value="1" />
           <entry key="xml" value="2" />
         </counts>
@@ -90,8 +91,8 @@
           <entry key="JSP" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="3" />
-          <entry key="SQL" value="7" />
-          <entry key="Scratch" value="3" />
+          <entry key="SQL" value="10" />
+          <entry key="Scratch" value="5" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -103,7 +104,7 @@
           <entry key="html" value="170" />
           <entry key="java" value="2438" />
           <entry key="properties" value="14" />
-          <entry key="sql" value="1249" />
+          <entry key="sql" value="1920" />
           <entry key="xml" value="285" />
         </counts>
       </usages-collector>
@@ -113,8 +114,8 @@
           <entry key="JAVA" value="2438" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="Properties" value="14" />
-          <entry key="SQL" value="1042" />
-          <entry key="Scratch" value="219" />
+          <entry key="SQL" value="1711" />
+          <entry key="Scratch" value="221" />
           <entry key="XML" value="285" />
         </counts>
       </usages-collector>
@@ -125,77 +126,64 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/PropMySQLink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/MySQLink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#2093#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sql/create_db.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="102" lean-forward="true" selection-start-line="33" selection-start-column="102" selection-end-line="33" selection-end-column="102" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(64)).sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.59628254">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/PropMySQLink.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/MySQLink.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2235">
+                  <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/Test.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/sql/create_db.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="33" selection-start-column="33" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -240,8 +228,8 @@
         <option value="$PROJECT_DIR$/src/tomcatCookie/data/mysql/MySQLink.java" />
         <option value="$PROJECT_DIR$/src/tomcatCookie/data/mysql/Test.java" />
         <option value="/7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql" />
         <option value="/7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(64)).sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql" />
         <option value="$PROJECT_DIR$/sql/create_db.sql" />
       </list>
     </option>
@@ -260,9 +248,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="956" />
-    <option name="height" value="1120" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -270,7 +257,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,7 +322,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +330,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540210623414" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540213278775" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -459,18 +445,19 @@
       <workItem from="1536151079937" duration="393000" />
       <workItem from="1536308261507" duration="50000" />
       <workItem from="1540207867242" duration="240000" />
-      <workItem from="1540208544885" duration="1825000" />
+      <workItem from="1540208544885" duration="2908000" />
+      <workItem from="1540213464058" duration="352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24869000" />
+    <option name="totallyTimeSpent" value="26304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49949342" visible="true" weight="0.14164004" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49949342" visible="true" weight="0.14270501" />
       <window_info id="Structure" order="1" sideWeight="0.5005066" side_tool="true" weight="0.1315229" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -557,7 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql" />
     <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/users/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
@@ -609,27 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/table/user">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -639,15 +604,36 @@
     </entry>
     <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(64)).sql">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
+    <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/MySQLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -661,69 +647,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#2093#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tomcatCookie/data/mysql/MySQLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(50),varchar(200)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbSrc:///7bfb35c8/0149c1ad-a2fe-40e0-a5a0-871a6e1f6dcc/schema/users/routine/is_valid_user@(varchar(64)).sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql/create_db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="102" lean-forward="true" selection-start-line="33" selection-start-column="102" selection-end-line="33" selection-end-column="102" />
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>

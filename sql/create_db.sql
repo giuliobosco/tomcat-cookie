@@ -1,36 +1,34 @@
 /*
- * If the database users already exist remove it.
+ * Remove users database if exists.
  */
 DROP DATABASE IF EXISTS users;
 
 /*
- * Create the users database.
+ * Create users database.
  */
 CREATE DATABASE users;
 
 /*
- * Create the user table.
+ * Create user table in users database.
  */
 CREATE TABLE users.user (
-	username VARCHAR(50) PRIMARY KEY,
+	username VARCHAR(64) PRIMARY KEY ,
 	password VARCHAR(200),
 	name VARCHAR(200)
 );
 
 /*
- * ---------------------------------------------------------------------------------------------------------- procedures
- */
-
-/*
- * Check user procedure.
+ * Create is_valid_user(varchar) procedure in users database.
+ * Used for check if the username is valid.
  */
 DELIMITER //
-CREATE PROCEDURE is_valid_user(IN username varchar(64))
+CREATE PROCEDURE users.is_valid_user(username VARCHAR(64))
 	BEGIN
-		SELECT username, name FROM users.user WHERE username LIKE user.username;
-	END // DELIMITER ;
+		SELECT user.username, user.username FROM users.user WHERE username LIKE user.username;
+	END //
+DELIMITER ;
 
 /*
- * --------------------------------------------------------------------------------------------------------- insert data
+ * Insert some test data in user table of users database.
  */
 INSERT INTO users.user (username, password, name) VALUES ('root', 'root', 'Root');
