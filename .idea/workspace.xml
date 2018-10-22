@@ -103,7 +103,7 @@
           <entry key="html" value="170" />
           <entry key="java" value="2438" />
           <entry key="properties" value="14" />
-          <entry key="sql" value="1036" />
+          <entry key="sql" value="1249" />
           <entry key="xml" value="285" />
         </counts>
       </usages-collector>
@@ -113,7 +113,7 @@
           <entry key="JAVA" value="2438" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="Properties" value="14" />
-          <entry key="SQL" value="829" />
+          <entry key="SQL" value="1042" />
           <entry key="Scratch" value="219" />
           <entry key="XML" value="285" />
         </counts>
@@ -171,8 +171,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/create_db.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="495">
+              <caret line="33" column="102" lean-forward="true" selection-start-line="33" selection-start-column="102" selection-end-line="33" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -344,7 +344,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540210441983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540210623414" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -459,12 +459,12 @@
       <workItem from="1536151079937" duration="393000" />
       <workItem from="1536308261507" duration="50000" />
       <workItem from="1540207867242" duration="240000" />
-      <workItem from="1540208544885" duration="1644000" />
+      <workItem from="1540208544885" duration="1825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24688000" />
+    <option name="totallyTimeSpent" value="24869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -722,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/create_db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="495">
+          <caret line="33" column="102" lean-forward="true" selection-start-line="33" selection-start-column="102" selection-end-line="33" selection-end-column="102" />
         </state>
       </provider>
     </entry>
